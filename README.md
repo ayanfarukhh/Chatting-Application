@@ -48,7 +48,7 @@ Chatting-Application/
 
 1. **Clone the Repository:**
 
-git clone [https://github.com/itszaidsidd/Chatting-Application.git](https://github.com/itszaidsidd/Chatting-Application.git)
+git clone [https://github.com/ayanfarukhh/Chatting-Application.git](https://github.com/ayanfarukhh/Chatting-Application.git)
 
 
 2. **Open in IDE:**
